@@ -79,7 +79,7 @@ This backend API provides a RESTful interface for managing users and orders. It 
 ## Technologies Used
 
 - Express.js for routing and handling HTTP requests.
-- PostgreSQL for data storage.
+- MySQL for data storage.
 - JSON Web Tokens (JWT) for authentication and authorization.
 
 ## Notes
