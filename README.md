@@ -1,12 +1,10 @@
 # Pizza-Delivery-Backend
 
-To create a README file for the given backend APIs, you can follow the structure provided in the search results[1][4]. Here's a sample README file for the provided backend APIs:
-
 # Backend API Documentation
 
 ## Introduction
 
-This backend API provides a RESTful interface for managing users and orders. It uses Express.js for routing and handling HTTP requests, and it connects to a PostgreSQL database for data storage. The API is designed to demonstrate how to set up an Express application with PostgreSQL and how to create and manage users and orders.
+This backend API provides a RESTful interface for managing users and orders. It uses Express.js for routing and handling HTTP requests, and it connects to a MySQL database for data storage. The API is designed to demonstrate how to set up an Express application with MySQL and how to create and manage users and orders.
 
 ## API Endpoints
 
